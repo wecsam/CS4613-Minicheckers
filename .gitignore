@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache files
+minicheckers/tree.minimax.pickle
+minicheckers/tree.search.pickle
